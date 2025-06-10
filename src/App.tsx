@@ -224,9 +224,6 @@ function App() {
           <h1 className="text-4xl font-bold text-gray-800 mb-4">
             Radio Station Voice Generator
           </h1>
-          <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Transform your radio scripts into professional voiceovers with intro and outro music using AI-powered voice generation.
-          </p>
         </div>
 
         {/* File Upload Section */}
